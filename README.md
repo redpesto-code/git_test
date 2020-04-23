@@ -1,0 +1,1 @@
+This is red pesto's first git project!
